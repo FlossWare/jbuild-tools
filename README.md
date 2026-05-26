@@ -437,3 +437,37 @@ Each IDE can auto-add `final` modifiers, format code, and show coverage inline.
 - `NETBEANS-SETUP.md` - NetBeans IDE configuration
 - `MOCKITO-FIX.md` - Fix Mockito JDK agent warnings
 - `PACKAGECLOUD-SETUP.md` - Publishing to PackageCloud.io
+
+## Contributing
+
+We welcome contributions to FlossWare Build Tools! Whether you're reporting bugs, suggesting features, or submitting code improvements, your input helps make this project better for everyone.
+
+### How to Contribute
+
+1. **Report Issues** - Found a bug or have a feature request? Open an issue on GitHub
+2. **Submit Pull Requests** - Fork the repository, make your changes, and submit a PR
+3. **Improve Documentation** - Help clarify setup guides, add examples, or fix typos
+4. **Share Feedback** - Let us know how you're using these tools in your projects
+
+### Code of Conduct
+
+This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold this code. Please report unacceptable behavior to scot.floess@gmail.com.
+
+### Development Guidelines
+
+- Follow the same FlossWare standards that this project enforces
+- Add tests for new functionality
+- Update documentation for user-facing changes
+- Run `mvn clean verify` before submitting PRs
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
+
+**What this means:**
+- ✓ You can freely use, modify, and distribute this software
+- ✓ You can use it in commercial projects
+- ✓ Any modifications must also be licensed under GPL v3.0
+- ✓ You must include the license and copyright notice
+
+For more information, visit [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)

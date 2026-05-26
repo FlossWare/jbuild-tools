@@ -1,5 +1,20 @@
 # FlossWare Build Tools - Changelog
 
+## Version 1.4 (Unreleased)
+
+### Added - Community & Licensing
+- **Added** [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) - Contributor Covenant Code of Conduct v2.1
+  - Establishes community guidelines for contributions
+  - Contact: scot.floess@gmail.com for reporting issues
+- **Added** [LICENSE](LICENSE) - GNU General Public License v3.0
+  - Clarifies licensing terms for using and distributing build tools
+  - Ensures open-source compliance for all users
+- **Updated** [README.md](README.md) - Added Contributing and License sections
+  - How to contribute to the project
+  - Code of conduct reference
+  - GPL v3.0 license summary
+- **Updated** [QUICK-START.md](QUICK-START.md) - Added contributing and license information
+
 ## Version 1.3 (2026-05-24)
 
 ### Added - **Automated Refactoring** ⭐ Major Feature

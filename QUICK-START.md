@@ -277,3 +277,11 @@ See [MOCKITO-FIX.md](MOCKITO-FIX.md) for details.
 - Full docs: [README.md](README.md)
 - PackageCloud setup: [PACKAGECLOUD-SETUP.md](PACKAGECLOUD-SETUP.md)
 - Version bumping: `./bump-version.sh --help`
+
+## Contributing
+
+Found a bug or have an improvement? Contributions welcome! See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for community guidelines.
+
+## License
+
+Licensed under GPL v3.0 - see [LICENSE](LICENSE) for details.
