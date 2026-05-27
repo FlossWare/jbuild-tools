@@ -375,6 +375,44 @@ The script automatically:
 - Updates `pom.xml`
 - Provides next-step instructions
 
+## GitHub Repository Setup
+
+### Setting GitHub Topics
+
+All FlossWare projects should include relevant GitHub topics for discoverability:
+
+```bash
+# Set topics using GitHub CLI
+gh repo edit --add-topic java,maven,junit,code-coverage,jacoco
+
+# Common topics by project type:
+# - Core: java, maven, junit, code-coverage, jacoco
+# - Java version: java11, java17, java21
+# - Functionality: threadpool, event-bus, encryption, cloud-storage, etc.
+```
+
+**Why topics matter:**
+- Improves repository discoverability
+- Helps developers find relevant projects
+- Categorizes projects by technology stack
+- Enables GitHub's topic-based search
+
+### Recommended Topics
+
+**Standard topics for all FlossWare Java projects:**
+- `java` - Programming language
+- `maven` - Build tool
+- `junit` - Testing framework
+- `code-coverage` - Coverage enforcement
+- `jacoco` - Coverage tool
+
+**Java version (pick one):**
+- `java11` - For Java 11 projects
+- `java17` - For Java 17 projects
+- `java21` - For Java 21+ projects
+
+**Add project-specific topics** based on functionality (e.g., `threadpool`, `collections`, `security`).
+
 ## Publishing to PackageCloud.io
 
 FlossWare projects are configured to publish to PackageCloud.io.
